@@ -1,6 +1,6 @@
 # Clustering Geolocation Data Intelligently
 
-We will accomplish he final task by completing each task in the project:
+We will accomplish the final task by completing each task in the project:
 
 * <b>Task 1</b>: Exploratory Data Analysis
 * <b>Task 2</b>: Visualizing Geographical Data
